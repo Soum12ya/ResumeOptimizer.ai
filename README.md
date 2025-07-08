@@ -46,7 +46,7 @@
       - Navigate to the directory where you want to install the project.
       - Run the following command to clone the GitHub repository:
       ```bash
-      git clone https://github.com/shubhamprajapati7748/resume-perfector.ai
+      git clone https://github.com/Soum12ya/ResumeOptimizer.ai.git
       ```
 
    2. **Create a Virtual Environment (Optional)**:
