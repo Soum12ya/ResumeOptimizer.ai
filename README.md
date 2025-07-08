@@ -2,7 +2,7 @@
 
    ## About The Project
 
-   **ResumePerfector.ai** is an GENAI-powered platform designed to optimize resumes for applicant tracking systems (ATS). By leveraging the **Google Gemini LLM Model**, the system enhances the likelihood of your resume passing through ATS filters and matching specific job descriptions.
+   **ResumeOptimizer.ai** is an GENAI-powered platform designed to optimize resumes for applicant tracking systems (ATS). By leveraging the **Google Gemini LLM Model**, the system enhances the likelihood of your resume passing through ATS filters and matching specific job descriptions.
 
    ### 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
    - 💡 𝗝𝗼𝗯 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: Tailor your resume to match the job description perfectly!
